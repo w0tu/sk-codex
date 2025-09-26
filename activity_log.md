@@ -1,1 +1,2 @@
 - 2025-09-21T09:11:23: feat: optimize quantized attention kernel
+- 2025-09-26T09:11:23: perf: accelerate matrix vector multiplication on CPU
