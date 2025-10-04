@@ -1,3 +1,4 @@
 - 2025-09-21T09:11:23: feat: optimize quantized attention kernel
 - 2025-09-26T09:11:23: perf: accelerate matrix vector multiplication on CPU
 - 2025-09-30T09:11:23: feat: optimize quantized attention kernel
+- 2025-10-04T09:11:23: feat: add autonomous tool execution loop
