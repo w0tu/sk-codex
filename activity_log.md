@@ -4,3 +4,4 @@
 - 2025-10-04T09:11:23: feat: add autonomous tool execution loop
 - 2025-10-09T09:11:23: perf: accelerate matrix vector multiplication on CPU
 - 2025-10-14T09:11:23: refactor: Ollama GGUF model loader parameters
+- 2025-10-18T09:11:23: perf: accelerate matrix vector multiplication on CPU
