@@ -11,3 +11,4 @@
 - 2025-11-05T09:11:23: perf: memory-mapped model weights streaming
 - 2025-11-10T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2025-11-14T09:11:23: refactor: Ollama GGUF model loader parameters
+- 2025-11-19T09:11:23: perf: accelerate matrix vector multiplication on CPU
