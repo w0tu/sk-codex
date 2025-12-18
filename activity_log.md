@@ -17,3 +17,4 @@
 - 2025-12-05T09:11:23: fix: token streaming buffer overflow in local runtime
 - 2025-12-10T09:11:23: fix: context window tokenizer truncation edge case
 - 2025-12-14T09:11:23: refactor: async prompt evaluation pipeline
+- 2025-12-18T09:11:23: refactor: Ollama GGUF model loader parameters
