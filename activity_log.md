@@ -18,3 +18,4 @@
 - 2025-12-10T09:11:23: fix: context window tokenizer truncation edge case
 - 2025-12-14T09:11:23: refactor: async prompt evaluation pipeline
 - 2025-12-18T09:11:23: refactor: Ollama GGUF model loader parameters
+- 2025-12-24T09:11:23: refactor: Ollama GGUF model loader parameters
