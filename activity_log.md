@@ -19,3 +19,4 @@
 - 2025-12-14T09:11:23: refactor: async prompt evaluation pipeline
 - 2025-12-18T09:11:23: refactor: Ollama GGUF model loader parameters
 - 2025-12-24T09:11:23: refactor: Ollama GGUF model loader parameters
+- 2025-12-29T09:11:23: feat: support 4-bit and 8-bit quantized weights
