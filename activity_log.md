@@ -20,3 +20,4 @@
 - 2025-12-18T09:11:23: refactor: Ollama GGUF model loader parameters
 - 2025-12-24T09:11:23: refactor: Ollama GGUF model loader parameters
 - 2025-12-29T09:11:23: feat: support 4-bit and 8-bit quantized weights
+- 2026-01-02T09:11:23: feat: optimize quantized attention kernel
