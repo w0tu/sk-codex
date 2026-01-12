@@ -22,3 +22,4 @@
 - 2025-12-29T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2026-01-02T09:11:23: feat: optimize quantized attention kernel
 - 2026-01-08T09:11:23: feat: add autonomous tool execution loop
+- 2026-01-12T09:11:23: feat: support 4-bit and 8-bit quantized weights
