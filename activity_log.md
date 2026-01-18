@@ -26,3 +26,4 @@
 - 2026-01-16T09:11:23: feat: add autonomous tool execution loop
 - 2026-01-18T10:25:49: chore: update neural network layer abstractions
 - 2026-01-18T13:53:41: refactor: async prompt evaluation pipeline
+- 2026-01-18T16:21:33: refactor: Ollama GGUF model loader parameters
