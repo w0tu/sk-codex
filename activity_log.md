@@ -25,3 +25,4 @@
 - 2026-01-12T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2026-01-16T09:11:23: feat: add autonomous tool execution loop
 - 2026-01-18T10:25:49: chore: update neural network layer abstractions
+- 2026-01-18T13:53:41: refactor: async prompt evaluation pipeline
