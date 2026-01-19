@@ -31,3 +31,4 @@
 - 2026-01-19T09:48:06: perf: memory-mapped model weights streaming
 - 2026-01-19T11:16:58: feat: optimize quantized attention kernel
 - 2026-01-19T13:44:50: fix: context window tokenizer truncation edge case
+- 2026-01-19T16:12:42: feat: support 4-bit and 8-bit quantized weights
