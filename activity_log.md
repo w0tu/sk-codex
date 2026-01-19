@@ -32,3 +32,4 @@
 - 2026-01-19T11:16:58: feat: optimize quantized attention kernel
 - 2026-01-19T13:44:50: fix: context window tokenizer truncation edge case
 - 2026-01-19T16:12:42: feat: support 4-bit and 8-bit quantized weights
+- 2026-01-19T18:40:34: feat: add temperature and top-p sampling heuristics
