@@ -37,3 +37,4 @@
 - 2026-01-20T09:48:06: refactor: Ollama GGUF model loader parameters
 - 2026-01-20T12:16:58: chore: update neural network layer abstractions
 - 2026-01-20T15:44:50: fix: token streaming buffer overflow in local runtime
+- 2026-01-20T17:12:42: docs: benchmark inference latency and memory footprints
