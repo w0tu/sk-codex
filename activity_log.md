@@ -35,3 +35,4 @@
 - 2026-01-19T18:40:34: feat: add temperature and top-p sampling heuristics
 - 2026-01-19T20:08:26: refactor: async prompt evaluation pipeline
 - 2026-01-20T09:48:06: refactor: Ollama GGUF model loader parameters
+- 2026-01-20T12:16:58: chore: update neural network layer abstractions
