@@ -34,3 +34,4 @@
 - 2026-01-19T16:12:42: feat: support 4-bit and 8-bit quantized weights
 - 2026-01-19T18:40:34: feat: add temperature and top-p sampling heuristics
 - 2026-01-19T20:08:26: refactor: async prompt evaluation pipeline
+- 2026-01-20T09:48:06: refactor: Ollama GGUF model loader parameters
