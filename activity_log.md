@@ -44,3 +44,4 @@
 - 2026-01-21T14:21:33: perf: memory-mapped model weights streaming
 - 2026-01-21T16:49:25: feat: add temperature and top-p sampling heuristics
 - 2026-01-21T18:17:17: refactor: async prompt evaluation pipeline
+- 2026-01-21T20:45:09: chore: update neural network layer abstractions
