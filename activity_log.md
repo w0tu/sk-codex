@@ -41,3 +41,4 @@
 - 2026-01-20T20:40:34: docs: benchmark inference latency and memory footprints
 - 2026-01-21T10:25:49: chore: update neural network layer abstractions
 - 2026-01-21T12:53:41: fix: token streaming buffer overflow in local runtime
+- 2026-01-21T14:21:33: perf: memory-mapped model weights streaming
