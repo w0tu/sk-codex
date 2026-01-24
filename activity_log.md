@@ -47,3 +47,4 @@
 - 2026-01-21T20:45:09: chore: update neural network layer abstractions
 - 2026-01-24T09:48:06: docs: benchmark inference latency and memory footprints
 - 2026-01-24T12:16:58: feat: support 4-bit and 8-bit quantized weights
+- 2026-01-24T15:44:50: docs: benchmark inference latency and memory footprints
