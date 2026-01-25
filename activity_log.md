@@ -50,3 +50,4 @@
 - 2026-01-24T15:44:50: docs: benchmark inference latency and memory footprints
 - 2026-01-24T18:12:42: fix: context window tokenizer truncation edge case
 - 2026-01-24T21:40:34: refactor: Ollama GGUF model loader parameters
+- 2026-01-25T12:02:32: fix: token streaming buffer overflow in local runtime
