@@ -53,3 +53,4 @@
 - 2026-01-25T12:02:32: fix: token streaming buffer overflow in local runtime
 - 2026-01-25T16:30:24: feat: optimize quantized attention kernel
 - 2026-01-25T20:58:16: feat: add autonomous tool execution loop
+- 2026-01-28T09:11:23: feat: add temperature and top-p sampling heuristics
