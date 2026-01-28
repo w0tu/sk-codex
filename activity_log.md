@@ -56,3 +56,4 @@
 - 2026-01-28T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2026-01-28T13:39:15: perf: accelerate matrix vector multiplication on CPU
 - 2026-01-28T17:07:07: feat: add autonomous tool execution loop
+- 2026-01-28T21:35:59: fix: context window tokenizer truncation edge case
