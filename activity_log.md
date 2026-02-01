@@ -65,3 +65,4 @@
 - 2026-02-01T11:39:15: feat: add temperature and top-p sampling heuristics
 - 2026-02-01T13:07:07: fix: context window tokenizer truncation edge case
 - 2026-02-01T15:35:59: refactor: async prompt evaluation pipeline
+- 2026-02-01T18:03:51: perf: memory-mapped model weights streaming
