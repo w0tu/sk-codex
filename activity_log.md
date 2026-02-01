@@ -64,3 +64,4 @@
 - 2026-02-01T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2026-02-01T11:39:15: feat: add temperature and top-p sampling heuristics
 - 2026-02-01T13:07:07: fix: context window tokenizer truncation edge case
+- 2026-02-01T15:35:59: refactor: async prompt evaluation pipeline
