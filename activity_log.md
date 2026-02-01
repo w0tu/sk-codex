@@ -61,3 +61,4 @@
 - 2026-01-31T12:16:58: docs: benchmark inference latency and memory footprints
 - 2026-01-31T15:44:50: feat: add temperature and top-p sampling heuristics
 - 2026-01-31T18:12:42: chore: update neural network layer abstractions
+- 2026-02-01T09:11:23: feat: support 4-bit and 8-bit quantized weights
