@@ -70,3 +70,4 @@
 - 2026-02-03T09:11:23: chore: update neural network layer abstractions
 - 2026-02-04T11:02:32: perf: memory-mapped model weights streaming
 - 2026-02-04T14:30:24: feat: optimize quantized attention kernel
+- 2026-02-04T17:58:16: fix: context window tokenizer truncation edge case
