@@ -72,3 +72,4 @@
 - 2026-02-04T14:30:24: feat: optimize quantized attention kernel
 - 2026-02-04T17:58:16: fix: context window tokenizer truncation edge case
 - 2026-02-04T20:26:08: chore: update neural network layer abstractions
+- 2026-02-07T10:48:06: docs: benchmark inference latency and memory footprints
