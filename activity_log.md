@@ -78,3 +78,4 @@
 - 2026-02-08T09:11:23: fix: token streaming buffer overflow in local runtime
 - 2026-02-08T11:39:15: feat: add temperature and top-p sampling heuristics
 - 2026-02-08T14:07:07: feat: support 4-bit and 8-bit quantized weights
+- 2026-02-08T17:35:59: feat: add temperature and top-p sampling heuristics
