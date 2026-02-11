@@ -82,3 +82,4 @@
 - 2026-02-08T20:03:51: fix: context window tokenizer truncation edge case
 - 2026-02-11T09:11:23: perf: accelerate matrix vector multiplication on CPU
 - 2026-02-11T11:39:15: perf: memory-mapped model weights streaming
+- 2026-02-11T13:07:07: fix: context window tokenizer truncation edge case
