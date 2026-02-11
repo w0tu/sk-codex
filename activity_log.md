@@ -84,3 +84,4 @@
 - 2026-02-11T11:39:15: perf: memory-mapped model weights streaming
 - 2026-02-11T13:07:07: fix: context window tokenizer truncation edge case
 - 2026-02-11T16:35:59: fix: context window tokenizer truncation edge case
+- 2026-02-11T18:03:51: docs: benchmark inference latency and memory footprints
