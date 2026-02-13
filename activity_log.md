@@ -91,3 +91,4 @@
 - 2026-02-12T15:58:16: feat: support 4-bit and 8-bit quantized weights
 - 2026-02-12T17:26:08: perf: accelerate matrix vector multiplication on CPU
 - 2026-02-12T20:54:00: docs: benchmark inference latency and memory footprints
+- 2026-02-13T09:48:06: fix: token streaming buffer overflow in local runtime
