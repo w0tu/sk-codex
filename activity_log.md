@@ -97,3 +97,4 @@
 - 2026-02-13T21:12:42: docs: benchmark inference latency and memory footprints
 - 2026-02-14T11:02:32: perf: accelerate matrix vector multiplication on CPU
 - 2026-02-14T15:30:24: docs: benchmark inference latency and memory footprints
+- 2026-02-14T18:58:16: refactor: async prompt evaluation pipeline
