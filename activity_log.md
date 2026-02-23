@@ -102,3 +102,4 @@
 - 2026-02-20T09:11:23: perf: accelerate matrix vector multiplication on CPU
 - 2026-02-23T10:48:06: refactor: async prompt evaluation pipeline
 - 2026-02-23T14:16:58: feat: add autonomous tool execution loop
+- 2026-02-23T18:44:50: docs: benchmark inference latency and memory footprints
