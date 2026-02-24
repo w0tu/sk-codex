@@ -106,3 +106,4 @@
 - 2026-02-24T09:11:23: feat: add autonomous tool execution loop
 - 2026-02-24T13:39:15: fix: token streaming buffer overflow in local runtime
 - 2026-02-24T17:07:07: feat: add autonomous tool execution loop
+- 2026-02-24T21:35:59: refactor: Ollama GGUF model loader parameters
