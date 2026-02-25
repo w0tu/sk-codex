@@ -108,3 +108,4 @@
 - 2026-02-24T17:07:07: feat: add autonomous tool execution loop
 - 2026-02-24T21:35:59: refactor: Ollama GGUF model loader parameters
 - 2026-02-25T11:02:32: chore: update neural network layer abstractions
+- 2026-02-25T13:30:24: fix: context window tokenizer truncation edge case
