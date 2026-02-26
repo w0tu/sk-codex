@@ -116,3 +116,4 @@
 - 2026-02-26T13:07:07: feat: support 4-bit and 8-bit quantized weights
 - 2026-02-26T16:35:59: perf: accelerate matrix vector multiplication on CPU
 - 2026-02-26T18:03:51: docs: benchmark inference latency and memory footprints
+- 2026-02-26T21:31:43: fix: context window tokenizer truncation edge case
