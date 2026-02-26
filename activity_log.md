@@ -114,3 +114,4 @@
 - 2026-02-26T09:11:23: refactor: async prompt evaluation pipeline
 - 2026-02-26T11:39:15: fix: context window tokenizer truncation edge case
 - 2026-02-26T13:07:07: feat: support 4-bit and 8-bit quantized weights
+- 2026-02-26T16:35:59: perf: accelerate matrix vector multiplication on CPU
