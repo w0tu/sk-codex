@@ -112,3 +112,4 @@
 - 2026-02-25T16:58:16: chore: update neural network layer abstractions
 - 2026-02-25T19:26:08: perf: memory-mapped model weights streaming
 - 2026-02-26T09:11:23: refactor: async prompt evaluation pipeline
+- 2026-02-26T11:39:15: fix: context window tokenizer truncation edge case
