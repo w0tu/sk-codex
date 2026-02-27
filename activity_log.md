@@ -118,3 +118,4 @@
 - 2026-02-26T18:03:51: docs: benchmark inference latency and memory footprints
 - 2026-02-26T21:31:43: fix: context window tokenizer truncation edge case
 - 2026-02-27T11:02:32: fix: token streaming buffer overflow in local runtime
+- 2026-02-27T15:30:24: feat: support 4-bit and 8-bit quantized weights
