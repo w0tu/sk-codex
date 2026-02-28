@@ -122,3 +122,4 @@
 - 2026-02-27T19:58:16: perf: memory-mapped model weights streaming
 - 2026-02-28T09:48:06: perf: accelerate matrix vector multiplication on CPU
 - 2026-02-28T12:16:58: chore: update neural network layer abstractions
+- 2026-02-28T15:44:50: refactor: Ollama GGUF model loader parameters
