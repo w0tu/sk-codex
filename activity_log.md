@@ -127,3 +127,4 @@
 - 2026-02-28T20:40:34: refactor: async prompt evaluation pipeline
 - 2026-03-01T10:25:49: refactor: async prompt evaluation pipeline
 - 2026-03-01T13:53:41: feat: support 4-bit and 8-bit quantized weights
+- 2026-03-01T16:21:33: refactor: async prompt evaluation pipeline
