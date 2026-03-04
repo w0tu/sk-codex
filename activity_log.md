@@ -133,3 +133,4 @@
 - 2026-03-04T11:39:15: refactor: Ollama GGUF model loader parameters
 - 2026-03-04T14:07:07: perf: accelerate matrix vector multiplication on CPU
 - 2026-03-04T17:35:59: fix: context window tokenizer truncation edge case
+- 2026-03-04T20:03:51: refactor: Ollama GGUF model loader parameters
