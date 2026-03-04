@@ -131,3 +131,4 @@
 - 2026-03-01T19:49:25: feat: support 4-bit and 8-bit quantized weights
 - 2026-03-04T09:11:23: chore: update neural network layer abstractions
 - 2026-03-04T11:39:15: refactor: Ollama GGUF model loader parameters
+- 2026-03-04T14:07:07: perf: accelerate matrix vector multiplication on CPU
