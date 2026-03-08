@@ -136,3 +136,4 @@
 - 2026-03-04T20:03:51: refactor: Ollama GGUF model loader parameters
 - 2026-03-08T09:11:23: fix: context window tokenizer truncation edge case
 - 2026-03-08T11:39:15: feat: support 4-bit and 8-bit quantized weights
+- 2026-03-08T14:07:07: refactor: async prompt evaluation pipeline
