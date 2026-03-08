@@ -137,3 +137,4 @@
 - 2026-03-08T09:11:23: fix: context window tokenizer truncation edge case
 - 2026-03-08T11:39:15: feat: support 4-bit and 8-bit quantized weights
 - 2026-03-08T14:07:07: refactor: async prompt evaluation pipeline
+- 2026-03-08T17:35:59: feat: add autonomous tool execution loop
