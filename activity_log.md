@@ -139,3 +139,4 @@
 - 2026-03-08T14:07:07: refactor: async prompt evaluation pipeline
 - 2026-03-08T17:35:59: feat: add autonomous tool execution loop
 - 2026-03-08T19:03:51: feat: support 4-bit and 8-bit quantized weights
+- 2026-03-11T09:11:23: feat: add autonomous tool execution loop
