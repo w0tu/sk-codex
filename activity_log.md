@@ -145,3 +145,4 @@
 - 2026-03-14T09:11:23: perf: accelerate matrix vector multiplication on CPU
 - 2026-03-16T10:25:49: perf: memory-mapped model weights streaming
 - 2026-03-16T13:53:41: feat: add autonomous tool execution loop
+- 2026-03-16T16:21:33: feat: optimize quantized attention kernel
