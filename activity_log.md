@@ -147,3 +147,4 @@
 - 2026-03-16T13:53:41: feat: add autonomous tool execution loop
 - 2026-03-16T16:21:33: feat: optimize quantized attention kernel
 - 2026-03-16T19:49:25: refactor: async prompt evaluation pipeline
+- 2026-03-17T09:11:23: feat: optimize quantized attention kernel
