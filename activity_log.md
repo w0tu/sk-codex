@@ -149,3 +149,4 @@
 - 2026-03-16T19:49:25: refactor: async prompt evaluation pipeline
 - 2026-03-17T09:11:23: feat: optimize quantized attention kernel
 - 2026-03-17T13:39:15: feat: add temperature and top-p sampling heuristics
+- 2026-03-17T18:07:07: feat: add autonomous tool execution loop
