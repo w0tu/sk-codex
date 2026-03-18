@@ -152,3 +152,4 @@
 - 2026-03-17T18:07:07: feat: add autonomous tool execution loop
 - 2026-03-18T10:48:06: feat: add temperature and top-p sampling heuristics
 - 2026-03-18T14:16:58: perf: accelerate matrix vector multiplication on CPU
+- 2026-03-18T18:44:50: feat: optimize quantized attention kernel
