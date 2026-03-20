@@ -159,3 +159,4 @@
 - 2026-03-19T19:35:59: docs: benchmark inference latency and memory footprints
 - 2026-03-20T10:48:06: feat: add autonomous tool execution loop
 - 2026-03-20T14:16:58: feat: add temperature and top-p sampling heuristics
+- 2026-03-20T19:44:50: perf: memory-mapped model weights streaming
