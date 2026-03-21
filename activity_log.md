@@ -160,3 +160,4 @@
 - 2026-03-20T10:48:06: feat: add autonomous tool execution loop
 - 2026-03-20T14:16:58: feat: add temperature and top-p sampling heuristics
 - 2026-03-20T19:44:50: perf: memory-mapped model weights streaming
+- 2026-03-21T10:25:49: refactor: async prompt evaluation pipeline
