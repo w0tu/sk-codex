@@ -163,3 +163,4 @@
 - 2026-03-21T10:25:49: refactor: async prompt evaluation pipeline
 - 2026-03-21T12:53:41: feat: add temperature and top-p sampling heuristics
 - 2026-03-21T14:21:33: fix: token streaming buffer overflow in local runtime
+- 2026-03-21T17:49:25: refactor: async prompt evaluation pipeline
