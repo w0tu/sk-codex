@@ -170,3 +170,4 @@
 - 2026-03-30T10:25:49: feat: add temperature and top-p sampling heuristics
 - 2026-03-30T12:53:41: feat: add autonomous tool execution loop
 - 2026-03-30T15:21:33: refactor: async prompt evaluation pipeline
+- 2026-03-30T17:49:25: fix: token streaming buffer overflow in local runtime
