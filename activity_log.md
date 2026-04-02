@@ -182,3 +182,4 @@
 - 2026-04-01T15:53:41: feat: add autonomous tool execution loop
 - 2026-04-01T19:21:33: feat: add temperature and top-p sampling heuristics
 - 2026-04-02T09:48:06: docs: benchmark inference latency and memory footprints
+- 2026-04-02T12:16:58: docs: benchmark inference latency and memory footprints
