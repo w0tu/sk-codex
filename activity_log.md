@@ -185,3 +185,4 @@
 - 2026-04-02T12:16:58: docs: benchmark inference latency and memory footprints
 - 2026-04-02T14:44:50: fix: context window tokenizer truncation edge case
 - 2026-04-02T17:12:42: perf: accelerate matrix vector multiplication on CPU
+- 2026-04-02T19:40:34: feat: optimize quantized attention kernel
