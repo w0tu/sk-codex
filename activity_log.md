@@ -181,3 +181,4 @@
 - 2026-04-01T11:25:49: feat: optimize quantized attention kernel
 - 2026-04-01T15:53:41: feat: add autonomous tool execution loop
 - 2026-04-01T19:21:33: feat: add temperature and top-p sampling heuristics
+- 2026-04-02T09:48:06: docs: benchmark inference latency and memory footprints
