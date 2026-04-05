@@ -197,3 +197,4 @@
 - 2026-04-04T16:44:50: refactor: async prompt evaluation pipeline
 - 2026-04-04T20:12:42: docs: benchmark inference latency and memory footprints
 - 2026-04-05T10:25:49: fix: context window tokenizer truncation edge case
+- 2026-04-05T13:53:41: feat: add autonomous tool execution loop
