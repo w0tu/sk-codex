@@ -200,3 +200,4 @@
 - 2026-04-05T13:53:41: feat: add autonomous tool execution loop
 - 2026-04-05T16:21:33: feat: optimize quantized attention kernel
 - 2026-04-05T19:49:25: perf: memory-mapped model weights streaming
+- 2026-04-06T09:11:23: refactor: Ollama GGUF model loader parameters
