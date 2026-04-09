@@ -206,3 +206,4 @@
 - 2026-04-08T14:21:33: feat: add temperature and top-p sampling heuristics
 - 2026-04-08T17:49:25: fix: token streaming buffer overflow in local runtime
 - 2026-04-08T19:17:17: refactor: async prompt evaluation pipeline
+- 2026-04-09T09:11:23: chore: update neural network layer abstractions
