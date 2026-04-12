@@ -209,3 +209,4 @@
 - 2026-04-09T09:11:23: chore: update neural network layer abstractions
 - 2026-04-12T11:25:49: chore: update neural network layer abstractions
 - 2026-04-12T15:53:41: perf: accelerate matrix vector multiplication on CPU
+- 2026-04-12T19:21:33: perf: memory-mapped model weights streaming
