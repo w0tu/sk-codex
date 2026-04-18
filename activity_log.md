@@ -214,3 +214,4 @@
 - 2026-04-15T12:39:15: feat: add temperature and top-p sampling heuristics
 - 2026-04-15T16:07:07: feat: support 4-bit and 8-bit quantized weights
 - 2026-04-15T20:35:59: chore: update neural network layer abstractions
+- 2026-04-18T09:11:23: feat: add autonomous tool execution loop
