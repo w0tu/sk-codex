@@ -228,3 +228,4 @@
 - 2026-04-23T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2026-04-23T11:39:15: perf: memory-mapped model weights streaming
 - 2026-04-23T13:07:07: feat: optimize quantized attention kernel
+- 2026-04-23T15:35:59: fix: token streaming buffer overflow in local runtime
