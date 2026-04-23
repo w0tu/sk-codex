@@ -226,3 +226,4 @@
 - 2026-04-22T17:12:42: fix: context window tokenizer truncation edge case
 - 2026-04-22T19:40:34: feat: support 4-bit and 8-bit quantized weights
 - 2026-04-23T09:11:23: feat: add temperature and top-p sampling heuristics
+- 2026-04-23T11:39:15: perf: memory-mapped model weights streaming
