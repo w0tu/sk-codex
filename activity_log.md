@@ -232,3 +232,4 @@
 - 2026-04-23T18:03:51: feat: support 4-bit and 8-bit quantized weights
 - 2026-04-23T20:31:43: refactor: Ollama GGUF model loader parameters
 - 2026-04-24T09:48:06: feat: support 4-bit and 8-bit quantized weights
+- 2026-04-24T13:16:58: chore: update neural network layer abstractions
