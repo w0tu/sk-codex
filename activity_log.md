@@ -238,3 +238,4 @@
 - 2026-04-25T11:02:32: fix: context window tokenizer truncation edge case
 - 2026-04-25T13:30:24: feat: add temperature and top-p sampling heuristics
 - 2026-04-25T16:58:16: fix: token streaming buffer overflow in local runtime
+- 2026-04-25T19:26:08: feat: support 4-bit and 8-bit quantized weights
