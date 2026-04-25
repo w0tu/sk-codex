@@ -236,3 +236,4 @@
 - 2026-04-24T17:44:50: refactor: async prompt evaluation pipeline
 - 2026-04-24T21:12:42: fix: token streaming buffer overflow in local runtime
 - 2026-04-25T11:02:32: fix: context window tokenizer truncation edge case
+- 2026-04-25T13:30:24: feat: add temperature and top-p sampling heuristics
