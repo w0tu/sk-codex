@@ -235,3 +235,4 @@
 - 2026-04-24T13:16:58: chore: update neural network layer abstractions
 - 2026-04-24T17:44:50: refactor: async prompt evaluation pipeline
 - 2026-04-24T21:12:42: fix: token streaming buffer overflow in local runtime
+- 2026-04-25T11:02:32: fix: context window tokenizer truncation edge case
