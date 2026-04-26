@@ -239,3 +239,4 @@
 - 2026-04-25T13:30:24: feat: add temperature and top-p sampling heuristics
 - 2026-04-25T16:58:16: fix: token streaming buffer overflow in local runtime
 - 2026-04-25T19:26:08: feat: support 4-bit and 8-bit quantized weights
+- 2026-04-26T09:11:23: chore: update neural network layer abstractions
