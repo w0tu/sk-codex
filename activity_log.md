@@ -241,3 +241,4 @@
 - 2026-04-25T19:26:08: feat: support 4-bit and 8-bit quantized weights
 - 2026-04-26T09:11:23: chore: update neural network layer abstractions
 - 2026-05-01T09:11:23: feat: optimize quantized attention kernel
+- 2026-05-03T11:25:49: chore: update neural network layer abstractions
