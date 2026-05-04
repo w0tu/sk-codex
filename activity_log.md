@@ -244,3 +244,4 @@
 - 2026-05-03T11:25:49: chore: update neural network layer abstractions
 - 2026-05-03T16:53:41: fix: context window tokenizer truncation edge case
 - 2026-05-03T20:21:33: chore: update neural network layer abstractions
+- 2026-05-04T11:02:32: refactor: Ollama GGUF model loader parameters
