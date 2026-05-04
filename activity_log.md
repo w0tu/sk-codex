@@ -247,3 +247,4 @@
 - 2026-05-04T11:02:32: refactor: Ollama GGUF model loader parameters
 - 2026-05-04T14:30:24: feat: support 4-bit and 8-bit quantized weights
 - 2026-05-04T16:58:16: fix: token streaming buffer overflow in local runtime
+- 2026-05-04T19:26:08: refactor: async prompt evaluation pipeline
