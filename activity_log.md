@@ -249,3 +249,4 @@
 - 2026-05-04T16:58:16: fix: token streaming buffer overflow in local runtime
 - 2026-05-04T19:26:08: refactor: async prompt evaluation pipeline
 - 2026-05-05T09:48:06: docs: benchmark inference latency and memory footprints
+- 2026-05-05T11:16:58: perf: memory-mapped model weights streaming
