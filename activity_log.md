@@ -255,3 +255,4 @@
 - 2026-05-05T19:40:34: feat: add temperature and top-p sampling heuristics
 - 2026-05-05T21:08:26: fix: context window tokenizer truncation edge case
 - 2026-05-06T10:02:32: refactor: Ollama GGUF model loader parameters
+- 2026-05-06T12:30:24: docs: benchmark inference latency and memory footprints
