@@ -257,3 +257,4 @@
 - 2026-05-06T10:02:32: refactor: Ollama GGUF model loader parameters
 - 2026-05-06T12:30:24: docs: benchmark inference latency and memory footprints
 - 2026-05-06T14:58:16: docs: benchmark inference latency and memory footprints
+- 2026-05-06T17:26:08: refactor: async prompt evaluation pipeline
