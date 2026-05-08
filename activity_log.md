@@ -262,3 +262,4 @@
 - 2026-05-06T21:22:52: chore: update neural network layer abstractions
 - 2026-05-07T12:02:32: refactor: async prompt evaluation pipeline
 - 2026-05-07T17:30:24: refactor: async prompt evaluation pipeline
+- 2026-05-08T09:11:23: docs: benchmark inference latency and memory footprints
