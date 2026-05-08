@@ -263,3 +263,4 @@
 - 2026-05-07T12:02:32: refactor: async prompt evaluation pipeline
 - 2026-05-07T17:30:24: refactor: async prompt evaluation pipeline
 - 2026-05-08T09:11:23: docs: benchmark inference latency and memory footprints
+- 2026-05-08T11:39:15: fix: context window tokenizer truncation edge case
