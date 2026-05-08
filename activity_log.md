@@ -266,3 +266,4 @@
 - 2026-05-08T11:39:15: fix: context window tokenizer truncation edge case
 - 2026-05-08T14:07:07: chore: update neural network layer abstractions
 - 2026-05-08T17:35:59: fix: token streaming buffer overflow in local runtime
+- 2026-05-08T19:03:51: refactor: Ollama GGUF model loader parameters
