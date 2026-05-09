@@ -271,3 +271,4 @@
 - 2026-05-09T12:16:58: fix: context window tokenizer truncation edge case
 - 2026-05-09T15:44:50: fix: context window tokenizer truncation edge case
 - 2026-05-09T17:12:42: fix: context window tokenizer truncation edge case
+- 2026-05-09T20:40:34: fix: token streaming buffer overflow in local runtime
