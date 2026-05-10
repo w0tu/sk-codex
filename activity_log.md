@@ -272,3 +272,4 @@
 - 2026-05-09T15:44:50: fix: context window tokenizer truncation edge case
 - 2026-05-09T17:12:42: fix: context window tokenizer truncation edge case
 - 2026-05-09T20:40:34: fix: token streaming buffer overflow in local runtime
+- 2026-05-10T10:25:49: feat: optimize quantized attention kernel
