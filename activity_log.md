@@ -275,3 +275,4 @@
 - 2026-05-10T10:25:49: feat: optimize quantized attention kernel
 - 2026-05-10T13:53:41: feat: add temperature and top-p sampling heuristics
 - 2026-05-10T16:21:33: fix: token streaming buffer overflow in local runtime
+- 2026-05-10T19:49:25: refactor: Ollama GGUF model loader parameters
