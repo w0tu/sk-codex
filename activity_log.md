@@ -280,3 +280,4 @@
 - 2026-05-15T09:11:23: feat: add autonomous tool execution loop
 - 2026-05-16T11:02:32: feat: support 4-bit and 8-bit quantized weights
 - 2026-05-16T14:30:24: fix: token streaming buffer overflow in local runtime
+- 2026-05-16T17:58:16: feat: add autonomous tool execution loop
