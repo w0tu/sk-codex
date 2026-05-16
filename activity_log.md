@@ -278,3 +278,4 @@
 - 2026-05-10T19:49:25: refactor: Ollama GGUF model loader parameters
 - 2026-05-11T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2026-05-15T09:11:23: feat: add autonomous tool execution loop
+- 2026-05-16T11:02:32: feat: support 4-bit and 8-bit quantized weights
