@@ -283,3 +283,4 @@
 - 2026-05-16T17:58:16: feat: add autonomous tool execution loop
 - 2026-05-16T20:26:08: feat: optimize quantized attention kernel
 - 2026-05-17T10:25:49: refactor: Ollama GGUF model loader parameters
+- 2026-05-17T12:53:41: feat: optimize quantized attention kernel
