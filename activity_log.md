@@ -285,3 +285,4 @@
 - 2026-05-17T10:25:49: refactor: Ollama GGUF model loader parameters
 - 2026-05-17T12:53:41: feat: optimize quantized attention kernel
 - 2026-05-17T14:21:33: feat: add temperature and top-p sampling heuristics
+- 2026-05-17T17:49:25: refactor: Ollama GGUF model loader parameters
