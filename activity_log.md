@@ -301,3 +301,4 @@
 - 2026-05-26T11:16:58: feat: add temperature and top-p sampling heuristics
 - 2026-05-26T13:44:50: feat: optimize quantized attention kernel
 - 2026-05-26T16:12:42: fix: context window tokenizer truncation edge case
+- 2026-05-26T18:40:34: docs: benchmark inference latency and memory footprints
