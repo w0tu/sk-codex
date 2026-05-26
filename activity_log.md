@@ -298,3 +298,4 @@
 - 2026-05-25T16:21:33: refactor: async prompt evaluation pipeline
 - 2026-05-25T19:49:25: fix: context window tokenizer truncation edge case
 - 2026-05-26T09:48:06: refactor: async prompt evaluation pipeline
+- 2026-05-26T11:16:58: feat: add temperature and top-p sampling heuristics
