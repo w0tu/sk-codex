@@ -306,3 +306,4 @@
 - 2026-05-27T09:48:06: perf: accelerate matrix vector multiplication on CPU
 - 2026-05-27T12:16:58: fix: token streaming buffer overflow in local runtime
 - 2026-05-27T15:44:50: perf: accelerate matrix vector multiplication on CPU
+- 2026-05-27T18:12:42: docs: benchmark inference latency and memory footprints
