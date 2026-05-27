@@ -304,3 +304,4 @@
 - 2026-05-26T18:40:34: docs: benchmark inference latency and memory footprints
 - 2026-05-26T20:08:26: docs: benchmark inference latency and memory footprints
 - 2026-05-27T09:48:06: perf: accelerate matrix vector multiplication on CPU
+- 2026-05-27T12:16:58: fix: token streaming buffer overflow in local runtime
