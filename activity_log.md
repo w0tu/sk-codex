@@ -309,3 +309,4 @@
 - 2026-05-27T18:12:42: docs: benchmark inference latency and memory footprints
 - 2026-05-28T09:11:23: feat: optimize quantized attention kernel
 - 2026-05-28T12:39:15: perf: memory-mapped model weights streaming
+- 2026-05-28T15:07:07: feat: add autonomous tool execution loop
