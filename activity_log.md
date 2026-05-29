@@ -311,3 +311,4 @@
 - 2026-05-28T12:39:15: perf: memory-mapped model weights streaming
 - 2026-05-28T15:07:07: feat: add autonomous tool execution loop
 - 2026-05-28T19:35:59: feat: add autonomous tool execution loop
+- 2026-05-29T09:48:06: perf: accelerate matrix vector multiplication on CPU
