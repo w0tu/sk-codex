@@ -316,3 +316,4 @@
 - 2026-05-29T14:44:50: feat: add autonomous tool execution loop
 - 2026-05-29T16:12:42: refactor: async prompt evaluation pipeline
 - 2026-05-29T19:40:34: feat: optimize quantized attention kernel
+- 2026-05-29T21:08:26: perf: memory-mapped model weights streaming
