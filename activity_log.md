@@ -317,3 +317,4 @@
 - 2026-05-29T16:12:42: refactor: async prompt evaluation pipeline
 - 2026-05-29T19:40:34: feat: optimize quantized attention kernel
 - 2026-05-29T21:08:26: perf: memory-mapped model weights streaming
+- 2026-06-02T09:11:23: chore: update neural network layer abstractions
