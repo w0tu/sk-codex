@@ -323,3 +323,4 @@
 - 2026-06-17T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2026-06-21T09:11:23: feat: optimize quantized attention kernel
 - 2026-06-25T09:11:23: feat: add temperature and top-p sampling heuristics
+- 2026-06-29T09:11:23: feat: add autonomous tool execution loop
