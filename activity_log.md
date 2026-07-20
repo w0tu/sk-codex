@@ -327,3 +327,4 @@
 - 2026-07-07T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2026-07-11T09:11:23: refactor: Ollama GGUF model loader parameters
 - 2026-07-16T09:11:23: feat: add temperature and top-p sampling heuristics
+- 2026-07-20T09:11:23: feat: add temperature and top-p sampling heuristics
