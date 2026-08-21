@@ -334,3 +334,4 @@
 - 2026-08-07T09:11:23: docs: benchmark inference latency and memory footprints
 - 2026-08-12T09:11:23: refactor: async prompt evaluation pipeline
 - 2026-08-16T09:11:23: perf: memory-mapped model weights streaming
+- 2026-08-21T09:11:23: refactor: async prompt evaluation pipeline
