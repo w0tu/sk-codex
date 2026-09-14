@@ -339,3 +339,4 @@
 - 2026-08-31T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2026-09-05T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2026-09-10T09:11:23: feat: optimize quantized attention kernel
+- 2026-09-14T09:11:23: refactor: async prompt evaluation pipeline
